@@ -1,0 +1,126 @@
+Data Governance:
+https://www.ziprecruiter.de/jobs/235278480-data-governance-specialist-f-m-d-bei-allianz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+Join us. Let's care for tomorrow.
+
+At Allianz Global Investors our people enjoy motivating, fulfilling careers. If you are looking for a fast-paced working environment, you are resolved to cultivate and expand your talents and relish a challenge, then join us now!
+
+We are looking for you! Within our Data & Technology Function, we are currently hiring a forward-thinking and results-oriented Data Governance Specialist (f/m/d). This position is based in our Frankfurt, London or Munich office. (Other locations also possible)
+
+You will report to the Head of Enterprise Data Office, a just recently formed team tasked to push AllianzGI towards a truly data-driven company. Within this exciting role, you will operate at multiple levels within the organization ensuring AllianzGI' s successful transformation. Your tasks will include leading and participating in important projects, owning, improving and applying the Data Governance practice, guiding and consulting Data Owners and Data Stewards and Data Producers.
+
+What you do:
+
+Manage the Data transformation of AllianzGI in all dimensions (people, process, technology, data, financials)
+Manage, optimize, and maintain the Data Governance framework and policy incl. any accompanying principles, guidelines, or tools
+Ensure Data Governance principles are applied across AllianzGI in run, but also in change initiatives leading to sustainable enterprise change and transformation
+Enable business stakeholders and Data Sponsors, Owners and Stewards to truly live up to their role by providing training, coaching and mentoring on Data Governance processes and standards
+Actively participate in change projects and implementation projects by taking responsibility for data standards in dedicated workstreams or projects or during the demand management process
+Manage vendors and outsourcing partners critical for our data value chain to ensure data quality and consistency
+Provide expertise and closely collaborate with partners to ensure strong Data Governance practice and processes stay abreast with industry developments and market innovations
+Ensure regular reporting of data maturity and data fitness KPIs to senior management and within Allianz Group Data Framework
+Take ownership in AllianzGI's enterprise-wide data quality program
+
+What you bring:
+
+Excellent university degree in Data Science, IT, Engineering, Economics or related field of study
+Profound experience in Data Governance, Data Architecture, Data Management, Data Science or other related roles
+Passionate about financial markets and knowledge of the Asset Management value chain front-to-back
+Ability to introduce and lead change and to influence, negotiate and form unions at all levels and across multiple jurisdictions and entities
+Experience in management and/or IT consulting with experience managing mid or large sized projects or programs within financial industry
+Fluent in English, additional language skills are a plus
+
+What we offer:
+
+Flexible working from home & abroad (hybrid mode/ flexible working hours & occasional cross-border remote work)
+Access to pension/ savings plans
+Company shares purchasing plan
+Family support (relocation/ childcare facilities...)
+Mobility solutions (Jobrad bike leasing, subvention Jobticket)
+Mental health and wellbeing programmes
+Development opportunities at both AllianzGI & Allianz Group
+Onboarding training/continuous learning
+... and so much more!
+
+Data Scientist/ML Expert:
+https://www.upwork.com/freelance-jobs/apply/Expert-for-Image-based-Trading-Strategy-Translator-Automated-Trade-Exchange-Multi-Exchange_~015ef9b55fc9923dc2/
+
+I am seeking a talented individual with the following skills and expertise to work as an Upwork contractor on a project involving the development of a Machine Learning model:
+
+MACHINE LEARNING EXPERTISE:
+
+    * In-depth knowledge and hands-on experience in developing Machine Learning models, particularly in the fields of computer vision and natural language processing.
+    * Proven track record of building robust and accurate ML models for complex tasks.
+    * Familiarity with various ML algorithms, such as deep learning, convolutional neural networks (CNN), recurrent neural networks (RNN), and transformer models.
+
+TRADING DOMAIN KNOWLEDGE:
+
+    * Strong understanding of trading strategies, indicators, and market dynamics.
+    * Proficiency in technical analysis and the ability to convert visual patterns into actionable indicators.
+    * Familiarity with different trading approaches, such as trend-following, mean reversion, and pattern recognition.
+
+
+PROGRAMMING SKILLS:
+
+    * Advanced programming skills in Python and proficiency in relevant ML libraries/frameworks (e.g., TensorFlow, Keras, PyTorch).
+    * Ability to write clean, efficient, and well-documented code.
+    * Experience with data manipulation, preprocessing, and feature engineering.
+
+API INTEGRATION:
+
+    * Prior experience working with trading platform APIs for automated trade execution on various exchanges.
+    * Understanding of API authentication, order placement, and retrieving real-time market data.
+    * Familiarity with popular exchange APIs, such as Binance, Coinbase, or Bitfinex.
+
+PROBLEM SOLVING SKILLS:
+
+    * Strong analytical and problem-solving skills to address challenges in developing accurate and robust trading strategy translation models.
+    * Ability to debug and optimize ML algorithms for improved performance.
+    * Proficiency in evaluating and selecting appropriate evaluation metrics for ML model performance assessment.
+
+COMMUNICATION AND COLLABORATION:
+
+    * Excellent communication skills to effectively discuss project requirements, provide regular progress updates, and collaborate with the team.
+    * Fluency in English is essential for seamless communication.
+
+ATTENTION TO DETAIL:
+
+    * Meticulousness in data preprocessing, model training, and testing to ensure the reliability and accuracy of the trading strategy translation model.
+    * Ability to handle and mitigate issues such as overfitting, data leakage, and model interpretability.
+
+TIME MANAGEMENT:
+    * Strong organizational and time management skills to meet project deadlines.
+    * Ability to work efficiently and deliver high-quality work in a remote freelance environment.
+
+
+If you possess these talents and are passionate about developing innovative Machine Learning solutions for automating trades on various exchanges, I am excited to review your proposals. Please provide examples of relevant projects or ML models you have developed in the past, along with any certifications or qualifications that demonstrate your expertise in this domain.
+
+Tax Accountant:
+https://www.linkedin.com/jobs/view/tax-accountant-nyc-li-at-the-calendar-group-3580496943?trk=public_jobs_topcard-title
+
+Our client is searching for a Tax Accountant to join their family office. The family offices are based in NYC and LI. The ideal candidate will have the flexibility to visit the Long Island office monthly.
+
+
+Sample of responsibilities:
+
+
+Preparation & filing of business & personal returns (~40 returns)
+Organization of related business backup related to returns (invoices, checks, w9s, etc.)
+Send out 1099s at year-end
+Assist in business & personal tax planning
+Usage and utilization of excel spreadsheets
+
+
+Requirements:
+
+
+Certified Public Accountant is a PLUS
+Strong organizational skills and attention to detail
+Strong analytical, technical, and research skills
+Ability to balance multiple priorities and complete assignments within time constraints and deadlines
+Strong verbal and written communication skills
+Strong technology skills
+Certified Public Accountant
+5+ years of similar experience whether in a firm or family office
+Must have Quickbooks experience
+Excellent, verifiable references
